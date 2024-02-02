@@ -1,0 +1,27 @@
+.side-box{
+    background-color: black;
+    width: fit-content;
+    color: white;
+    
+}
+img{
+    width: 500px;
+    height: 400px;
+
+}
+h3{
+    font-size: 1.3rem !important;
+}
+h2{
+    font-size: 1.5rem !important;
+}
+.education{
+    padding: 20% 20%;
+}
+hr{
+    background-color: white !important;
+    height: 2px; 
+}
+p{
+    font-size: 1.1rem;
+}
